@@ -65,6 +65,10 @@ pip install -r requirements.txt
 
 4. **Generate Paper Figures**  
    Run `sampled_denoised_for_the_plot.ipynb` to create journal-quality plots for your manuscript.
+5. **Generate Paper Figures** 
+Once the .pkl results files are downloaded to their respective test_results/<model_name>/ folders:
+Use persample.ipynb for quantitative analysis (SNR, RMSE).
+Use sampled_denoised_for_the_plot.ipynb to visualize noisy vs. denoised signals and generate figures.
 
 ---
 
