@@ -1,0 +1,21 @@
+numpy>=1.21
+
+pandas>=1.3
+
+matplotlib>=3.4
+
+scipy>=1.7
+
+scikit-learn>=1.0
+
+tensorflow>=2.10 # Or tensorflow-gpu for GPU acceleration
+
+wfdb>=4.1.2 # For ECG data handling
+
+pickle5>=0.0.1 # For pickle operations (if needed)
+
+jupyter>=1.0 # For running the notebooks
+
+seaborn>=0.11 # (Optional) For enhanced plotting
+
+tqdm>=4.62 # (Optional) For progress bars in loops
