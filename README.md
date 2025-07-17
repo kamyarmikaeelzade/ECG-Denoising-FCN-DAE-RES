@@ -19,8 +19,7 @@ Official repository for the article: **"Enhanced Residual Autoencoder for ECG Si
 ├── data.ipynb                # Data loading/preprocessing  
 ├── FCN_DAE_RES.ipynb         # Training script for FCN-DAE_RES  
 ├── persample.ipynb           # SNR/RMSE analysis for model comparison  
-├── sampled_denoised_for_the_plot.ipynb  # Signal visualization for figures  
-├── finall.docx               # Final paper draft  
+├── sampled_denoised_for_the_plot.ipynb  # Signal visualization for figures    
 └── README.md                 # This file  
 
 ---
